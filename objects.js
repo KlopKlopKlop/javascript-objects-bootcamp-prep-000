@@ -1,5 +1,4 @@
 var playlist = {
-  Elvis: "Are you lonesome"
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
